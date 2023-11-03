@@ -1,4 +1,3 @@
-#Sir Prescott's Solution to the student information system
 # Initialize an empty dictionary to store student records.
 
 students_data = {}
