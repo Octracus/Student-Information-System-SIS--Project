@@ -144,8 +144,3 @@ INSERT INTO Department_Courses VALUES(002, 2);
 INSERT INTO Department_Courses VALUES(003, 3);
 INSERT INTO Department_Courses VALUES(004, 4);
 INSERT INTO Department_Courses VALUES(005, 5);
-
-
-
-
-
